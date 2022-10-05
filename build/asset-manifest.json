@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/stripe/build/static/js/main.6d9cc330.js",
+    "index.html": "/stripe/build/index.html",
+    "main.6d9cc330.js.map": "/stripe/build/static/js/main.6d9cc330.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6d9cc330.js"
+  ]
+}
